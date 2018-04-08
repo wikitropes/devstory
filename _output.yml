@@ -1,0 +1,14 @@
+bookdown::gitbook:
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><strong><a href="./">개발자 이야기</a></strong></li>
+    edit:
+      link: https://github.com/wikitropes/devstory/edit/master/%s
+      text: "Edit"
+    sharing: no
+  css: devtropes.css
+  toc_depth: 3
+  toc_unnumbered: no
+  split_by: section
