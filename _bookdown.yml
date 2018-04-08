@@ -3,13 +3,13 @@ new_session: yes
 rmd_files: [
   "index.Rmd",
   "01_intro.Rmd",
-  "02_devstory.Rmd"
+  "02_devstory.Rmd",
 #  "03_age.Rmd",
-#  "04_project.Rmd",
+  "04_project.Rmd",
 #  "05_developer.Rmd",
 #  "06_trait.Rmd",
 #  "07_modifier.Rmd",
-#  "08_event.Rmd"
+  "08_event.Rmd"
 ]
 
 output_dir: "docs"
