@@ -6,7 +6,7 @@ documenclass: book
 ---
 
 # 환영합니다 {-}
-_개발자 이야기__ 에 오신 것을 환영합니다.
+__개발자 이야기__ 에 오신 것을 환영합니다.
 개발자 이야기는 한국 개발 역사 및 문화를 수집 및 정리하는 위키입니다.
 
 해당 위키는 누구나 [수정](https://github.com/wikitropes/devstory/edit/master/index.Rmd)가능하며, 문의는 [여기](https://github.com/wikitropes/devstory/issues/new)로 주시면 됩니다. 다만 GitHub 아이디가 필요합니다.
